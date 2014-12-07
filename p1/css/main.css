@@ -1,1 +1,15 @@
-/* Enter your custom CSS here */
+* {
+	font-family: "Lucida Grande" , sans-serif;
+}
+
+/* Center aligns main header and sets color */
+h1 {
+	color: #666666;
+	text-align: center;
+}
+
+
+/* Sets color of secondary headers */
+h2 {
+	color: #f07c17;
+}
