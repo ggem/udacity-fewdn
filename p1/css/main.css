@@ -2,14 +2,58 @@
 	font-family: "Lucida Grande" , sans-serif;
 }
 
-/* Center aligns main header and sets color */
 h1 {
 	color: #666666;
 	text-align: center;
+	font-size: 340%;
 }
 
-
-/* Sets color of secondary headers */
 h2 {
 	color: #f07c17;
+	font-size: 170%;
+	letter-spacing: 1px;
+	margin-bottom: 30px
+}
+
+.expanded {
+	letter-spacing: 2px;
+}
+
+.container {
+	margin-left: 27px;
+	margin-top: 24px;
+}
+
+img {
+	width: 375px;
+	height: 375px;
+	margin-top: 20px;
+}
+
+p {
+	line-height: 2;
+	margin-top: 10px;
+	font-size: 115%;
+}
+
+ul {
+	margin-top: 30px;
+	margin-left: 5px;
+}
+
+.main-features {
+	max-width: 375px;
+	height: 224px;
+	padding-top: 6px;
+	padding-left: 27px;
+	margin-top: 32px;
+	margin-bottom: 25px;
+	border: 1px solid #cccccc;
+	line-height: 2;
+	font-size: 115%;
+}
+
+.content {
+	padding top: 28px;
+	padding-right: 2px;
 }
