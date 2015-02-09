@@ -4,3 +4,6 @@
 [submodule "p2-resume"]
 	path = p2-resume
 	url = git@github.com:ggem/frontend-nanodegree-resume.git
+[submodule "p4"]
+	path = p4
+	url = git@github.com:ggem/fend-p4-mobile-portfolio.git
