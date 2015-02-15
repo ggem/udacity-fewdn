@@ -1,9 +1,12 @@
-[submodule "p3"]
-	path = p3
-	url = git@github.com:ggem/frontend-nanodegree-arcade-game.git
 [submodule "p2-resume"]
 	path = p2-resume
 	url = git@github.com:ggem/frontend-nanodegree-resume.git
+[submodule "p3"]
+	path = p3
+	url = git@github.com:ggem/frontend-nanodegree-arcade-game.git
 [submodule "p4"]
 	path = p4
 	url = git@github.com:ggem/fend-p4-mobile-portfolio.git
+[submodule "p5"]
+	path = p5
+	url = git@github.com:ggem/fend-p5-ajax.git
