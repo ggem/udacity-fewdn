@@ -8,5 +8,5 @@
 	path = p4
 	url = git@github.com:ggem/fend-p4-mobile-portfolio.git
 [submodule "p5"]
-	path = p5
+	path = p5-intro-to-ajax
 	url = git@github.com:ggem/fend-p5-ajax.git
